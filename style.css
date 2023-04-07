@@ -1,0 +1,23 @@
+
+
+h2{color:blue;
+font-weight: 100;}
+h3{font-weight: 3000;}
+
+h4{font-weight:100 ;}
+span{font-weight: 100;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+h1{color: mediumvioletred;}
+.shotiko{color: rgb(173, 106, 19);}
+a{color: blue;}
+h6{font-size: medium;}
+h5{font-size: medium;}
+div{background-color: chartreuse;
+font-size: 20px;
+width: 200;
+height: 150;
+border: 10px solid black;
+text-overflow: clip;
+text-align: center;
+}
